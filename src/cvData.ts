@@ -62,7 +62,7 @@ export type Book = {
 export const EXPERIENCES: Experience[] = [
   {
     company: "Master's Internship Projects",
-    role: "Full-Stack Developer & AI Engineer",
+    role: "AI Engineer & Software Developer",
     start: "2024",
     end: "Present",
     location: "Munich, Germany",
