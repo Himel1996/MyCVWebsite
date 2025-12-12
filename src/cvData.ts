@@ -112,7 +112,7 @@ export const PROJECTS: Project[] = [
 export const SKILL_CATEGORIES: SkillCategory[] = [
   {
     name: "Frontend",
-    skills: ["React", "TypeScript", "Next.js", "Vite", "Tailwind CSS"]
+    skills: ["React", "TypeScript", "Next.js", "Vite"]
   },
   {
     name: "Backend",
