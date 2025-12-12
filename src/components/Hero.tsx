@@ -9,7 +9,7 @@ export const Hero: React.FC = () => {
           <p className="hero__eyebrow">Hello, I'm</p>
           <h1 className="hero__title">Himel Ghosh</h1>
           <p className="hero__subtitle">
-            AI Engineer & Full-Stack Developer interested in building
+            AI Engineer & Software Developer interested in building
             production-ready AI-powered applications.
           </p>
 
