@@ -69,7 +69,7 @@ export const EXPERIENCES: Experience[] = [
     bullets: [
       "Designed and built React + TypeScript web apps.",
       "Implemented LLM-powered features using OpenAI APIs.",
-      "Worked on agentic systems, bias detection, and GNNs.",
+      "Worked on agentic systems, bias detection, and NLP.",
       "Containerized and deployed applications using Docker and CI/CD pipelines."
     ],
     tech: ["React", "TypeScript", "Node.js", "FastAPI", "PostgreSQL"]
@@ -78,16 +78,15 @@ export const EXPERIENCES: Experience[] = [
     company: "Tata Consultancy Services",
     role: "Systems Engineer",
     start: "2020",
-    end: "2023",
-    location: "Kolkata, India",
+    end: "2024",
+    location: "Kolkata, India & Remote",
     bullets: [
       "Delivered 7+ production-grade web applications end-to-end, collaborating with cross-functional teams (devs, PMs, clients).",
-      "Designed and implemented scalable APIs and data-driven features, ensuring fast, reliable, and performant frontends integrated with enterprise backends on AWS.",
-      "Optimized and tuned high-performance SQL data models and queries, improving end-to-end data access latency by 40% across critical user workflows.",
-      "Mentored 4 junior developers, establishing clean coding standards and doubling team delivery capacity.",
-      "Ensured smooth, predictable release cycles through structured development workflows, automated checks, and consistent delivery of high-quality application updates with 95%+ on-time releases.",
+      "Designed and implemented scalable APIs and data-driven features, ensuring fast, reliable, and performant frontends integrated with enterprise backends on AWS & followed CI/CD principles.",
+      "Designed optimized SQL schemas/queries, cutting data retrieval times by 40%.",
+      "Mentored 4 junior developers, established clean coding standards and doubled team delivery capacity.",
     ],
-    tech: ["Python", "SQL", "React", "TypeScript", "Docker", "AWS"]
+    tech: ["Python", "SQL", "React", "TypeScript", "Docker", "AWS", "CI/CD"]
   }
 ];
 
@@ -117,7 +116,7 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
   },
   {
     name: "Backend",
-    skills: ["Node.js", "FastAPI", "REST APIs"]
+    skills: ["Node.js", "FastAPI", "REST APIs", "SQL"]
   },
   {
     name: "Data & ML",
